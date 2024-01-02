@@ -1,0 +1,1 @@
+We integrating Jenkins with Sonarqube and doing static code testing.
